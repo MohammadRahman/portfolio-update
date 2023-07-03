@@ -1,0 +1,52 @@
+// .navbar-container{
+//     width: 100%;
+//     height: auto;
+    
+//     .navbar-options{
+// display: flex;
+//     flex-direction: column;
+//     gap: 8px;
+//          .option{
+//         text-decoration: none;
+//         color: white;
+//         opacity: 0.8;
+//     }
+//     }
+   
+// }
+
+
+.navigation {
+  display: flex;
+  align-items: flex-start;
+  /* Add any other styling for the navigation container */
+
+  &__options {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    /* Add any other styling for the navigation options container */
+
+    & > div {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+      cursor: pointer;
+
+      &.active {
+        .navigation__line {
+          width: 50px;
+          /* Add any other styling for the active link */
+        }
+      }
+    }
+  }
+
+  &__line {
+    width: 30px;
+    height: 2px;
+    background-color: white;
+    margin-right: 10px;
+    /* Add any other styling for the line */
+  }
+}

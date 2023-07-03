@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "date": "2022 - March 2023",
+        "role":"Fullstack Engineer",
+        "companyName":"Phare tech",
+        "description": "Implemented the backend system: As a backend developer, I was responsible for designing and implementing the backend architecture and functionality. This involved creating data models, defining APIs, and integrating various components to build a robust and scalable backend system. I utilized Docker to containerize the application, allowing for easy deployment and scalability. I configured Docker containers to encapsulate the backend system, ensuring consistency and portability across different environments.Participated in frontend architecture: I played a role in architecting the frontend system, collaborating with the frontend development team to define best practices, project structure, and module dependencies. This involved making decisions on global state management, routing strategies, and HTTP request handling.",
+        "stacks": [
+            "React", "NodeJs","Typescript", "MongoDB", "AWS","Docker"
+        ]
+    },
+    {
+        "id": 2,
+        "date": "March-May",
+        "role":"Fullstack Engineer",
+        "companyName":"Cargo AG",
+        "description": " I worked closely with designers, product managers, and backend developers to gather requirements, provide technical insights, and contribute to the overall product development lifecycle. Effective collaboration and communication were key in delivering successful front-end solutions.",
+        "stacks": [
+            "Vue", "NodeJs", ".NET", "Azure"
+        ]
+    },
+    {
+        "id": 3,
+        "date": "2021-Aug 2023",
+        "role":"Fullstack Engineer",
+        "companyName":"Helmda Systems",
+        "description": " I worked closely with designers, product managers, and backend developers to gather requirements, provide technical insights, and contribute to the overall product development lifecycle. Effective collaboration and communication were key in delivering successful front-end solutions.",
+        "stacks": [
+            "React", "NodeJs", "MongoDB", "AWS","Typescript"
+        ]
+    },
+    {
+        "id": 4,
+        "date": "Oct-Dec 2022",
+        "role":"Web Developer",
+        "companyName":"Setta International",
+        "description": " I worked closely with designers, product managers, and backend developers to gather requirements, provide technical insights, and contribute to the overall product development lifecycle. Effective collaboration and communication were key in delivering successful front-end solutions.",
+        "stacks": [
+            "Shopify", "CSS", "Liquid"
+        ]
+    }
+]

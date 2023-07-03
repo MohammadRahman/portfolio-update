@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "/images/project-management.png",
+    "appName": "Project Management",
+    "large": true,
+    "description": "Implemented the backend system: As a backend developer, I was responsible for designing and implementing the backend architecture and functionality. This involved creating data models, defining APIs, and integrating various components to build a robust and scalable backend system. I utilized Docker to containerize the application, allowing for easy deployment and scalability. I configured Docker containers to encapsulate the backend system, ensuring consistency and portability across different environments.Participated in frontend architecture: I played a role in architecting the frontend system, collaborating with the frontend development team to define best practices, project structure, and module dependencies. This involved making decisions on global state management, routing strategies, and HTTP request handling.",
+    "stacks": ["React", "NodeJs", "Typescript", "MongoDB", "AWS", "Docker"]
+  },
+  {
+    "id": 2,
+    "imageUrl": "/images/Hotel-Booking.jpeg",
+    "appName": "Hotel Booking",
+    "description": " I worked closely with designers, product managers, and backend developers to gather requirements, provide technical insights, and contribute to the overall product development lifecycle. Effective collaboration and communication were key in delivering successful front-end solutions.",
+    "stacks": ["Vue", "NodeJs", ".NET", "Azure"]
+  },
+  {
+    "id": 3,
+    "imageUrl": "/images/mailing.png",
+    "appName": "Resto Mailing",
+    "description": " I worked closely with designers, product managers, and backend developers to gather requirements, provide technical insights, and contribute to the overall product development lifecycle. Effective collaboration and communication were key in delivering successful front-end solutions.",
+    "large": true,
+    "stacks": ["React", "NodeJs", "MongoDB", "AWS", "Typescript"]
+  },
+  {
+    "id": 4,
+    "imageUrl": "/images/ecommerce.png",
+    "appName": "Ecommerce",
+    "description": " I worked closely with designers, product managers, and backend developers to gather requirements, provide technical insights, and contribute to the overall product development lifecycle. Effective collaboration and communication were key in delivering successful front-end solutions.",
+    "stacks": ["Shopify", "CSS", "Liquid"]
+  }
+]
